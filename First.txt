@@ -1,0 +1,8 @@
+1.4.1 Parametirc vs non-parametirc models
+    1.Parametirc model:This models have a fixed number of parameters.
+    2.Non-parametirc model:The numebr of parameters grow with the amount of
+      training data.
+    3.Compare:Parametric models have the advantage of often being faster to
+      use,but the disadvantage of making stronger assumptions about the nature
+      of the data distributions.Non-parametirc models are more flexible,but
+      often computationally intractable for large datasets.
