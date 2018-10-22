@@ -6,3 +6,5 @@
       use,but the disadvantage of making stronger assumptions about the nature
       of the data distributions.Non-parametirc models are more flexible,but
       often computationally intractable for large datasets.
+1.4.2 A simple non-parametirc classifier: K-nearest neighbors
+    1.
